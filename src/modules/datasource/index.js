@@ -4,7 +4,7 @@ import mongoose from 'mongoose';
 // Config
 const { MONGODB_DATASOURCE } = process.env;
 
-const options = {
+const LAVARIABLEMASTETRAHIJUEPUTA = {
     keepAlive: 300000,
     connectTimeoutMS: 300000,
     useMongoClient: true,
